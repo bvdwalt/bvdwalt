@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bennie van der Walt</h1>
 <h3 align="center">My passion for software development started in high school when I learnt to code, since receiving my Bachelor of Science (BSc) (Hons) focused in Computer Software Engineering from the Belgium Campus in Pretoria, South Africa, I have held developer positions mostly in the financial industry</h3>
 
-![GitHub followers](https://img.shields.io/github/followers/bvdwalt?logo=GitHub&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/bvdwalt?logo=GitHub&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/bvdwalt?logo=GitHub&style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/bvdwalt/spacex_flights?style=social)
+![GitHub followers](https://img.shields.io/github/followers/bvdwalt?logo=GitHub&style=social)
 
 - 🔭 I’m currently working on [Launch Tracker - SpaceX](https://github.com/bvdwalt/spacex_flights)
 
 - 🌱 I’m currently learning **Flutter**
 
-- ⚡ Fun fact **I enjoy baking bread.**
+- ⚡ Fun fact **I enjoy baking and cooking.**
 
 ### Connect with me:
 
