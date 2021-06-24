@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/barend-johannes-van-der-walt-47816aa5/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="barend-johannes-van-der-walt-47816aa5" height="22" width="22" /></a>
+<a href="https://www.linkedin.com/in/bennie-van-der-walt/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/bennie-van-der-walt/" height="22" width="22" /></a>
 
 ### Languages and Tools:
 
