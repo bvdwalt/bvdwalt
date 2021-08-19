@@ -5,7 +5,9 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/bvdwalt/spacex_flights?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/bvdwalt?logo=GitHub&style=social)
 
-- 🔭 I’m currently working on [Launch Tracker - SpaceX](https://github.com/bvdwalt/Launch-Tracker-SpaceX)
+- 🔭 I’m currently working on:
+  - [Launch Tracker - SpaceX](https://github.com/bvdwalt/Launch-Tracker-SpaceX) Testing what I have self researched on Flutter and making my own app about something I find interesting. 
+  - [IncomeTaxApi](https://github.com/bvdwalt/IncomeTaxApi) API for calculating South African income tax for individuals, because I could not find an API for this and having to go to a website all the time got to me. 
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -13,7 +15,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/bennie-van-der-walt/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/bennie-van-der-walt/" height="22" width="22" /></a>
+<a href="https://www.linkedin.com/in/bennie-van-der-walt/" target="blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin.com/in/bennie-van-der-walt/" height="22" width="22" /></a>
 
 ### Languages and Tools:
 
