@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bennie van der Walt</h1>
+<h1 align="center">Hi 👋, I'm Barend van der Walt</h1>
 <h3 align="center">My passion for software development started in high school when I was introduced to coding, since receiving my Bachelor of Science (BSc) (Hons) focused in Computer Software Engineering from the Belgium Campus in Pretoria, South Africa, I have mostly been working in the financial industry on various products. Feel free to check out my experience on my LinkedIn profile below.</h3>
 
 ![GitHub stars](https://img.shields.io/github/stars/bvdwalt?logo=GitHub&style=social)
